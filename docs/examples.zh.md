@@ -1,7 +1,7 @@
 
 # 例子
 
-以下是一些例子`vue-scrollto`!
+以下是`vue-scrollto`的一些例子!
 
 每个示例都假设您已安装`vue-scrollto`:
 
@@ -36,7 +36,7 @@ Vue.use(VueScrollTo)
 </button>
 ```
 
-要么
+或者
 
 ```html
 <button v-scroll-to="{ element: '#element' }">
@@ -66,7 +66,7 @@ Vue.use(VueScrollTo)
         frameborder="0">
 </iframe>
 
-#### 使用不同的缓和
+#### 使用不同的缓动函数
 
 ```html
 <button v-scroll-to="{ element: '#element', easing: 'linear' }">
@@ -81,7 +81,7 @@ Vue.use(VueScrollTo)
         frameborder="0">
 </iframe>
 
-#### 使用自定义缓和与持续时间相结合
+#### 使用自定义缓动与持续时间相结合
 
 ```html
 <button v-scroll-to="{ 

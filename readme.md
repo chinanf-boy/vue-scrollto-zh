@@ -16,7 +16,7 @@
 
 ---
 
-## 校对 🀄️
+## 校对 ✅
 
 <!-- doc-templite START generated -->
 <!-- repo = 'rigor789/vue-scrollto' -->
@@ -30,9 +30,6 @@
 [commit]: https://github.com/rigor789/vue-scrollto/tree/d419a1b25c03c80b230750138910071d8233046a
 
 <!-- doc-templite END generated -->
-
-- [x] readme
-- [ ] docs
 
 ### 贡献
 
@@ -52,9 +49,11 @@
 [![npm-downloads](https://img.shields.io/npm/dm/vue-scrollto.svg)](https://www.npmjs.com/package/vue-scrollto)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/rigor789/vue-scrollto/blob/master/LICENSE)
 
-[DEMO](https://chinanf-boy.github.io/vue-scrollto-zh/#/examples)
-
 滚动元素从未如此简单!
+
+
+### [DEMO](https://chinanf-boy.github.io/vue-scrollto-zh/#/examples.zh)
+
 
 这是为了`vue 2.x`
 
